@@ -1,0 +1,21 @@
+{
+  "CHANGELOG": "5b202f6fa1428768ea75f51a65e93a86",
+  "Gemfile": "211e10bb0c3fa438e2dc2b47a8f58efb",
+  "LICENSE": "0e118ca5f3fa18e200a0f493ad21a18e",
+  "README.md": "4c4a32d45098726f18cb20efcb042473",
+  "Rakefile": "3d465f0f157624ae89610d4129394ba2",
+  "files/etc/ssh.d/vagrant": "b440b5086dd12c3fd8abb762476b9f40",
+  "manifests/config.pp": "4ab029c700be593181d2c66e131447d7",
+  "manifests/init.pp": "0e62de23482037598f01c0d348df3ce7",
+  "manifests/install.pp": "3f931482b07331e3751c2b1b7edd3dcc",
+  "manifests/params.pp": "0b0bfd94dc5b87c89e58c4583a9d5233",
+  "manifests/service.pp": "4fcf49b0bd68ed05bdcba5fd7d7c13c0",
+  "metadata.json": "e95b43c317516d65cc68b3c8bc6f1106",
+  "spec/classes/coverage_spec.rb": "5b6dfa0dd426aca0ccfae23c0a629f0b",
+  "spec/classes/ssh_spec.rb": "9a4f23db8a474ed2d43897e4ae941349",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "13e09816094ac094b1c3c9feb6a17eb9",
+  "templates/etc/ssh_config.erb": "4c32f5ae23f0af7d56f7c542c7d6faf7",
+  "templates/etc/sshd_config.erb": "476d57e20d7f8789aef8fb1e7ffe1bd6",
+  "tests/init.pp": "423466ae46899d6a0480aa9910b096d2"
+}
